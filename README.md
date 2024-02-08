@@ -3,3 +3,4 @@
 
  Repositório criado durante a melhor aula!
  Essa linha eu adicionei diretamente no site. Que impressionante!
+Dessa forma ficou muito mais fácil. 
